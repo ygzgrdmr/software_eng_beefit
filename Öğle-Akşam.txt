@@ -1,0 +1,19 @@
+Mussel(one),59,protein
+Seabass(100gr),180,protein
+Steak(100gr),478,protein
+Chicken(100gr),232,protein
+Green Pea(100gr),120,protein
+Vegetable marrow(100gr),50,karbonhidrat
+Spinach(100gr),46,karbonhidrat
+Cauliflower(100gr),52,karbonhidrat
+Pasta(100gr),470,karbonhidrat
+Rice(100gr),352,karbonhidrat
+Lasagne(100gr),280,karbonhidrat
+Pizza(100gr),267,karbonhidrat
+Lamb Chops(100gr),225,protein
+Stuffed Vegetables with Olive Oil(100gr),173,yağ
+Stuffed Vine Leaves(100gr),141,karbonhidrat
+Fresh Bean(100gr),110,karbonhidrat
+Meat Loaf(100gr),312,protein
+Olive Oil(5gr),65,yağ
+Salad(100gr),55,karbonhidrat

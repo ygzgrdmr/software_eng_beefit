@@ -1,0 +1,12 @@
+Tomato(100gr),58,karbonhidrat
+Cucumber(100gr),75,karbonhidrat
+Fruit Yoghurt,225,protein
+Egg,120,protein
+White Bread(100gr),315,karbonhidrat
+Honey(100gr),150,karbonhidrat
+Cheese(30gr),120,fat
+Strawberry(100gr),46,karbonhidrat
+Grape(100gr),87,karbonhidrat
+Walnut(30gr),215,yağ
+Salami(30gr),250,yağ
+Bologna(30gr),250,yağ
